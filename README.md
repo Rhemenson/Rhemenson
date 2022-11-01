@@ -1,7 +1,7 @@
 ### Óla ! eu sou o José Rhemenson 👋
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/rhemerson-silva)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mrsilva.jobs@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrsilva.jobs@gmail.com)
 
 
 ![jose rhemenson GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhemenson&show_icons=true&theme=onedark)
